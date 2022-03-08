@@ -1,2 +1,2 @@
 # KillMicrosoftApps
-Simply kills Teams and Microsoft Edge with one double-click to prepare a Windows machine for TXSecureBrowsing
+This script simply kills Teams and Microsoft Edge and then starts TXSecureBrowser in one double-click.
